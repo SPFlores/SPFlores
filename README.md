@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SPFlores, Sammi! I use she/her pronouns.
 - 👀 I’m interested in full stack development, learning new things, and up-and-coming technologies.
-- 🌱 I’m currently learning Nest.js, Next.js, and TypeScript.
+- 🌱 I’m currently learning Golang, Nest.js, Next.js, and TypeScript.
 - 💞️ I’m looking to collaborate on anything! I'm open to working with new people on new things, or even new people on old things. Reach out!
 - 📫 How to reach me: sflores92886@gmail.com, or check out my portfolio at https://spflores.github.io/portfolio/ which has other ways to get in touch as well.
 - 🎲 Side hobby: I make dice for TTRPG games, mostly D&D! You can find my dice stuff at https://www.instagram.com/goldenratiodice.
